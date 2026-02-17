@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1770908155.12859 "d:/SSU/Учебные дисциплины/Философия/tex/main.tex" "main.pdf" "main" 1770908157.24289 0
+["pdflatex"] 1771324156.92792 "d:/SSU/Учебные дисциплины/Философия/tex/main.tex" "main.pdf" "main" 1771324158.83105 0
   "C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1770641243 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1770641256 36852 3b10eea6ffc6424ee862427190b84af5 ""
   "C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk" 1770641258 32600 a6879fd38c43d8f9435c05bad085b69e ""
@@ -85,10 +85,10 @@
   "C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1761901070 16014 dfa4b4d4e04a78a3f05a90c19711737a ""
   "C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "SCWorks1.cls" 1768310324 28888 98eecf15e7d13989ff6796bad5718988 ""
-  "d:/SSU/Учебные дисциплины/Философия/tex/main.tex" 1770908153 5219 08d73d5a216ca789556e24457268ce1f ""
-  "main.aux" 1770908156 315 69b8cdecba977f1c6c16d2e0a4e5c156 "pdflatex"
-  "main.out" 1770908156 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1770908153 5219 08d73d5a216ca789556e24457268ce1f ""
+  "d:/SSU/Учебные дисциплины/Философия/tex/main.tex" 1771324155 5521 bc21b4cf92a23f9914be1c1f04ccfe80 ""
+  "main.aux" 1771324158 315 69b8cdecba977f1c6c16d2e0a4e5c156 "pdflatex"
+  "main.out" 1771324158 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1771324155 5521 bc21b4cf92a23f9914be1c1f04ccfe80 ""
   (generated)
   "main.aux"
   "main.log"
