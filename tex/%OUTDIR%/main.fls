@@ -1,7 +1,7 @@
 PWD d:\SSU\Учебные дисциплины\Философия\tex
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT d:\SSU\Учебные дисциплины\Философия\tex\main.tex
-OUTPUT main.log
+OUTPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.log
 INPUT .\SCWorks1.cls
 INPUT SCWorks1.cls
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\extarticle.cls
@@ -158,10 +158,10 @@ INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.aux
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.aux
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.aux
+OUTPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.aux
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
@@ -174,20 +174,20 @@ INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\ep
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
-OUTPUT main.pdf
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+OUTPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+OUTPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.pdf
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\lati1440.tfm
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.aux
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Философия\tex\%OUTDIR%\main.out
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1440.pk
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1440.pk
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk
